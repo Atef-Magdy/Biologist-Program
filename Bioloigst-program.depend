@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1544100885 source:e:\fci\programmestng-ii\projects\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+
+1544084287 source:e:\fci\programmestng-ii\projects\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+
+1544084242 e:\fci\programmestng-ii\projects\bioloigst-program\include\codonstable.h
+	<string>
+
+1544100636 source:e:\fci\programmestng-ii\projects\bioloigst-program\src\dna.cpp
+	"DNA.h"
+	<bits/stdc++.h>
+
+1544100925 e:\fci\programmestng-ii\projects\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544089970 e:\fci\programmestng-ii\projects\bioloigst-program\include\sequence.h
+
+1544084288 source:e:\fci\programmestng-ii\projects\bioloigst-program\src\protein.cpp
+	"Protein.h"
+	<iostream>
+
+1544098234 e:\fci\programmestng-ii\projects\bioloigst-program\include\protein.h
+	"Sequence.h"
+
+1544087583 source:e:\fci\programmestng-ii\projects\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544100583 source:e:\fci\programmestng-ii\projects\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+
+1544100925 e:\fci\programmestng-ii\projects\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544450417 source:e:\fci\programming-ii\projects\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544450431 e:\fci\programming-ii\projects\bioloigst-program\include\codonstable.h
+	<string>
+
+1544392269 source:e:\fci\programming-ii\projects\bioloigst-program\src\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+
+1544289057 e:\fci\programming-ii\projects\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544089970 e:\fci\programming-ii\projects\bioloigst-program\include\sequence.h
+
+1544451397 e:\fci\programming-ii\projects\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544390867 source:e:\fci\programming-ii\projects\bioloigst-program\src\protein.cpp
+	<bits/stdc++.h>
+	"Protein.h"
+
+1544452965 e:\fci\programming-ii\projects\bioloigst-program\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+	"DNA.h"
+
+1544386309 source:e:\fci\programming-ii\projects\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544280142 source:e:\fci\programming-ii\projects\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544452929 source:e:\fci\programming-ii\projects\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544458603 source:c:\users\amr el-bgermy\desktop\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544460743 c:\users\amr el-bgermy\desktop\bioloigst-program\include\sequence.h
+	<iostream>
+
+1544289058 c:\users\amr el-bgermy\desktop\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544453265 c:\users\amr el-bgermy\desktop\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544461149 c:\users\amr el-bgermy\desktop\bioloigst-program\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+	"DNA.h"
+
+1544450432 c:\users\amr el-bgermy\desktop\bioloigst-program\include\codonstable.h
+	<string>
+
+1544458834 source:c:\users\amr el-bgermy\desktop\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544392270 source:c:\users\amr el-bgermy\desktop\bioloigst-program\src\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+
+1544453262 source:c:\users\amr el-bgermy\desktop\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544456847 source:c:\users\amr el-bgermy\desktop\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544459231 source:c:\users\amr el-bgermy\desktop\bioloigst-program\src\protein.cpp
+	<bits/stdc++.h>
+	"Protein.h"
+	"CodonsTable.h"
+	"DNA.h"
+
+1544729359 source:c:\users\win\desktop\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544728967 c:\users\win\desktop\bioloigst-program\include\sequence.h
+	<bits/stdc++.h>
+
+1544518756 c:\users\win\desktop\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544453265 c:\users\win\desktop\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544461149 c:\users\win\desktop\bioloigst-program\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+	"DNA.h"
+
+1544450432 c:\users\win\desktop\bioloigst-program\include\codonstable.h
+	<string>
+
+1544524837 source:c:\users\win\desktop\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544727993 source:c:\users\win\desktop\bioloigst-program\src\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+
+1544722399 source:c:\users\win\desktop\bioloigst-program\src\protein.cpp
+	<bits/stdc++.h>
+	"Protein.h"
+	"CodonsTable.h"
+
+1544520970 source:c:\users\win\desktop\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544729491 source:c:\users\win\desktop\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544786272 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\src\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+
+1544518756 e:\fci cu\prog2\dna project\last version\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544728967 e:\fci cu\prog2\dna project\last version\bioloigst-program\include\sequence.h
+	<bits/stdc++.h>
+
+1544453265 e:\fci cu\prog2\dna project\last version\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544786606 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\src\protein.cpp
+	<bits/stdc++.h>
+	"Protein.h"
+	"CodonsTable.h"
+
+1544461149 e:\fci cu\prog2\dna project\last version\bioloigst-program\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+	"DNA.h"
+
+1544450432 e:\fci cu\prog2\dna project\last version\bioloigst-program\include\codonstable.h
+	<string>
+
+1544786384 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544730175 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544730722 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544785963 source:e:\fci cu\prog2\dna project\last version\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544814338 source:c:\users\win\desktop\last version\bioloigst-program\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544728967 c:\users\win\desktop\last version\bioloigst-program\include\sequence.h
+	<bits/stdc++.h>
+
+1544518756 c:\users\win\desktop\last version\bioloigst-program\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544810561 c:\users\win\desktop\last version\bioloigst-program\include\rna.h
+	"Sequence.h"
+
+1544461149 c:\users\win\desktop\last version\bioloigst-program\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	"RNA.h"
+	"DNA.h"
+
+1544450432 c:\users\win\desktop\last version\bioloigst-program\include\codonstable.h
+	<string>
+
+1544730722 source:c:\users\win\desktop\last version\bioloigst-program\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544814189 source:c:\users\win\desktop\last version\bioloigst-program\src\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+
+1544814032 source:c:\users\win\desktop\last version\bioloigst-program\src\protein.cpp
+	<bits/stdc++.h>
+	"Protein.h"
+	"CodonsTable.h"
+
+1544814009 source:c:\users\win\desktop\last version\bioloigst-program\src\rna.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544730175 source:c:\users\win\desktop\last version\bioloigst-program\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
