@@ -1,3 +1,10 @@
+///* Project Name : Biologist Program
+///* Author 1) Name : Atef Magdy  -- ID : 20170136
+///* Author 2) Name : Abdelrahman Ibrahim  -- ID : 20170139
+///* Author 3) Name : Abdelrahman Bahig  -- ID : 20170143
+///* Date : 14-12-2018
+///* Version 1.0
+
 #include <bits/stdc++.h>
 #include "Sequence.h"
 #include "DNA.h"
